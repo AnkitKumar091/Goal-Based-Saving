@@ -1,30 +1,25 @@
-# Build project according pdf
+## ✨ Features
+✅ Add multiple financial goals (e.g., "Buy a Car", "Vacation", "Emergency Fund")
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+💰 Set the target amount needed for each goal
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/kumarankit0161-gmailcoms-projects/v0-build-project-according-pdf)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/dqmj5c0pf0k)
+📈 Log savings periodically toward each goal
 
-## Overview
+🔄 Update or delete savings entries as needed
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+📊 Visualize progress toward each goal with percentage indicators or progress bars
 
-## Deployment
 
-Your project is live at:
+## 🧑‍💻 Tech Stack
+Frontend: React.js , Tailwind CSS
+Next js 15 , Typescript
 
-**[https://vercel.com/kumarankit0161-gmailcoms-projects/v0-build-project-according-pdf](https://vercel.com/kumarankit0161-gmailcoms-projects/v0-build-project-according-pdf)**
+### 🧩 shadcn/ui Components
 
-## Build your app
+- Card, Button, Input, Dialog
+- Progress, Badge, Tooltip
+- Select, Label, Separator
 
-Continue building your app on:
+## Deployment link 
 
-**[https://v0.dev/chat/projects/dqmj5c0pf0k](https://v0.dev/chat/projects/dqmj5c0pf0k)**
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+**https://v0-build-project-a-git-2817ba-kumarankit0161-gmailcoms-projects.vercel.app**
